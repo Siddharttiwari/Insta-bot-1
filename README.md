@@ -29,4 +29,5 @@ This project is for educational purposes only. Use it responsibly and at your ow
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/siddhartht2002/InstaBot1.git
+   git clone https://github.com/Siddharttiwari/Insta-bot-1.git
+
